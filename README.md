@@ -2,7 +2,7 @@
 
 ## Technologies
 
-* Javascript
+* JavaScript
 * Webpack
 * Github Pages
 
